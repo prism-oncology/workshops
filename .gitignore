@@ -1,0 +1,29 @@
+.DS_Store
+
+# IDE related
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+**/.vscode
+
+# Data files
+data/*
+*.h5ad
+*.zarr
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Misc
+logs/
+.env
+!**/.gitkeep
+sandbox/

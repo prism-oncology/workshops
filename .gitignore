@@ -16,6 +16,7 @@ data/*
 
 # Jupyter checkpoints
 .ipynb_checkpoints
+*_solution.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
